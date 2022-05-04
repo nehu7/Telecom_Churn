@@ -4,7 +4,7 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Business Recomendation](#conclusions)
+* [Business Recomendation](#Business-recomendation)
 * [Acknowledgements](#acknowledgements)
 
 ## General Information

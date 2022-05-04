@@ -15,11 +15,17 @@ goal. To reduce customer churn, telecom companies need to predict which customer
 
 ## Business Recomendation
 -We have seen that the churn probability is more in cases when there is a huge difference in the recharge dates whether it be amount recharge or data recharge.
+
 -To cope up with this, the telecom operator needs to roll out few exciting offers for high value customers so that they can be retained and these customers can recharge as per their favourite plans.
+
 -Also, we can see that churn customers uses too many sachet plans in the month of August which indicates their short term retention in the current telecom operator.
+
 -Since, the main business objective of this project is accuracy, we will be choosing a model which has high accuracy in both train and test set.
+
 -No matter how the non-churn customers are predicted, the actual churn customers needs to be predicted correctly. Given that, the telecom operator will be rolling out offers to high risk customers, it won't be any big deal to roll out offers to wrongly predicted non-churn customers. In such cases, we need to ensure that recall is low.
+
 -Again, if the company is running on losses, it can't roll out offers even for wrongly predicted non-churn customers.
+
 -If business wants to maximize the correctness of actual churn customers, precision will be the best metric to go for. We can go with the model which gives high precision.
 
 ## Technologies Used
